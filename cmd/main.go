@@ -11,10 +11,11 @@ package main
 //
 // (If this is per-repo configuration in cgit -> need for sigsum-{lib,log}-go.)
 //
+// Edit: seems to be working now w/ git.sigsum.org
 
 import (
 	"fmt"
-	"golang.sigsum.org/sigsum-log-go/pkg/types"
+	"git.sigsum.org/sigsum-log-go/pkg/types"
 )
 
 func main() {
