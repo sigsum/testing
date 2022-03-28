@@ -20,3 +20,4 @@ removing gitolite@vdse as a non-member
 removing setting From:
 removing the setting from getuid:~git/repositories/testing.git/config
 
+stop delivering to git@getuid.sigum.org
